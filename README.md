@@ -17,3 +17,15 @@ A modern, responsive landing page for a water delivery startup, built with [Tail
 - [Tailwind CSS](https://tailwindcss.com/) (via CDN)
 - [AOS (Animate On Scroll)](https://michalsnik.github.io/aos/) (via CDN)
 - HTML5 & CSS3
+## ScreenShots
+![Alt Text](outputSS/s1.png)
+![Alt Text](outputSS/s2.png)
+![Alt Text](outputSS/s3.png)
+![Alt Text](outputSS/s4.png)
+![Alt Text](outputSS/s5.png)
+![Alt Text](outputSS/s6.png)
+
+
+
+
+
